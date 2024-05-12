@@ -5,12 +5,12 @@
 
 .black-bg {
     margin: 0px;
-    background-color: black;
+    background-color: rgb(78, 76, 76);
     padding: 0px; /* Optional: Add padding inside the margin */
 }
 
 .blue-bg{
-    background-color: darkblue;
+    background-color: rgb(94, 94, 224);
     padding: 0px;
 }
 
