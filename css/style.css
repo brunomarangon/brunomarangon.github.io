@@ -1,0 +1,16 @@
+.with-border{
+    border: 2px solid black;
+    padding: 0px;
+}
+
+.black-bg {
+    margin: 0px;
+    background-color: black;
+    padding: 0px; /* Optional: Add padding inside the margin */
+}
+
+.blue-bg{
+    margin: 0px;
+    background-color: darkblue;
+    padding: 0px;
+}

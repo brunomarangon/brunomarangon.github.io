@@ -1,9 +1,93 @@
-<body>
-    <h1>Hello, World!</h1>
-    <h2>Bruno's First Git Repo!</h2>
-    <h3>:)</h3>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bruno Marangon</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="bootstrap/bootstrap.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="bootstrap/bootstrap.js"></script>
+    </head>
+    <body>
+        <!--"Menu"/Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.html">Bruno Marangon</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                  </li>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        
+        <!--vertical space div-->
+        <div style="height: 25px;"></div>
+        
+        <!--header div-->
+        <div class="container">
+            <div class="row">
 
-    <p>PHP is not supported!</p>
-    <a href="file.php">link php</a>
-    <a href="portfolio.html">portfolio</a>
-</body>
+                <!--left column-->
+                <div class="col-md-4">
+                    <div class="d-flex justify-content-center">
+                        <img src="img/round-profile.png" class="img-fluid mb-2" style="max-width: 100%; width: 250px">
+                    </div>
+                    <div class="text-center">
+                        <h1>Bruno Marangon</h1>
+                        <h2>Federal University of São Paulo</h2>
+                        <h3>Economics, BSc</h3>
+                    </div>
+                    <hr style="margin-bottom: 25px;">
+                </div>
+                
+                
+
+                <!--right column-->
+                <div class="col-md-8">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur arcu dui, vestibulum eu gravida at, hendrerit non sem.
+                    </p>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <h3>Interests</h3>
+                                <ul>
+                                    <li>Econometrics</li>
+                                    <li>Forecasting</li>
+                                    <li>Finance</li>
+                                    <li>Data Science</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6">
+                                <h3>Education</h3>
+                                <ul>
+                                    <li>BSc in Economics, 2020-2024</li>
+                                    <ul>
+                                        <li>Federal University of São Paulo</li>
+                                        <li>Additional Classes</li>
+                                        <ul>
+                                            <li>Finantial Markets</li>
+                                            <li>Finances I (Studying Now)</li>
+                                            <li>Linear Algebra (Studying Now)</li>
+                                            <li>Stochastic Processes (Next Semester)</li>
+                                        </ul>
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
