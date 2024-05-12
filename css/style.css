@@ -13,3 +13,8 @@
     background-color: darkblue;
     padding: 0px;
 }
+
+.justify-txt{
+    text-align: justify;
+    text-justify: inter-word;
+}
