@@ -18,3 +18,7 @@
     text-align: justify;
     text-justify: inter-word;
 }
+
+li#no-decoration{
+    list-style: none;
+}
