@@ -2,11 +2,9 @@
 
 # Bruno Marangon
 
-## Federal University of São Paulo
+### Federal University of São Paulo
 
 ### Economics, BSc.
-
-------------------------------------------------------------------------
 
 ::: {#academic-works .bg-light}
 # Academic Works
