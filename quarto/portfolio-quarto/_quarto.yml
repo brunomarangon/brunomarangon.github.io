@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Bruno Marangon - Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#academic-works
+        text: Academic Works
+      - href: index.qmd#projects-developed
+        text: Projects Developed
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

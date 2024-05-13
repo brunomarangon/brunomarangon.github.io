@@ -1,0 +1,19 @@
+![](img/round-profile.png){fig-align="center" width="200"}
+
+# Bruno Marangon
+## Federal University of São Paulo
+### Economics, BSc.
+
+------------------------------------------------------------------------
+
+::: {#academic-works .bg-light}
+# Academic Works
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit fermentum nunc, sit amet scelerisque sem maximus a. Vivamus eu neque tortor. Ut justo risus, dapibus a velit ac, sodales varius arcu. Sed et ligula neque. Donec vel fringilla metus. In et interdum ligula. Aenean tempus, dolor vel bibendum varius, augue turpis consequat neque, et gravida leo ligula in lectus. Nulla blandit placerat sodales. Donec ac pulvinar dolor, vel placerat justo. Pellentesque sagittis vestibulum ante, eu feugiat urna posuere eget. Fusce ornare id orci nec tempor. Vivamus sed mauris nec quam congue posuere.
+:::
+
+::: {#projects-developed .bg-dark}
+# Projects Developed
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit fermentum nunc, sit amet scelerisque sem maximus a. Vivamus eu neque tortor. Ut justo risus, dapibus a velit ac, sodales varius arcu. Sed et ligula neque. Donec vel fringilla metus. In et interdum ligula. Aenean tempus, dolor vel bibendum varius, augue turpis consequat neque, et gravida leo ligula in lectus. Nulla blandit placerat sodales. Donec ac pulvinar dolor, vel placerat justo. Pellentesque sagittis vestibulum ante, eu feugiat urna posuere eget. Fusce ornare id orci nec tempor. Vivamus sed mauris nec quam congue posuere.
+:::
